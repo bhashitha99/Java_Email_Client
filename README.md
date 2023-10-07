@@ -20,15 +20,16 @@ This Java Command-Line Email Client is a versatile application designed for mana
 
 ## Getting Started
 
-To get started with the Java Command-Line Email Client, follow the instructions in the README provided in this repository.
+Follow these steps to get started with the Java Email Client:
+
+1. Clone this repository to your local machine: git clone https://github.com/yourusername/java-email-client.git
+2. Compile the Java code: javac EmailClient.java
+3. Run the application: java EmailClient
 
 ## Dependencies
 
 - The project utilizes external libraries like `javax.mail` for email functionality, as indicated in the assignment.
 
-## Acknowledgments
-
-This project was developed as part of an academic assignment and may serve as a starting point or reference for other similar projects.
 
 ## Disclaimer
 
@@ -36,11 +37,7 @@ This repository is provided as-is, and the code was created for educational purp
 
 ## Contributing
 
-Contributions to this project are not actively accepted, as it was developed for an academic assignment. However, feel free to fork the repository for your own use or learning purposes.
+Contributions to this project are not actively accepted. However, feel free to fork the repository for your own use or learning purposes.
 
-## License
 
-This project is not currently licensed, and its use may be subject to academic or institutional policies. Please refer to the assignment guidelines for more information.
-
-For any questions or inquiries, please contact [Your Name] at [your@email.com].
 
