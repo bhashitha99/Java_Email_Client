@@ -22,7 +22,7 @@ This Java Command-Line Email Client is a versatile application designed for mana
 
 Follow these steps to get started with the Java Email Client:
 
-1. Clone this repository to your local machine: git clone https://github.com/yourusername/java-email-client.git
+1. Clone this repository to your local machine: git clone https://github.com/bhashitha99/Java_Email_Client.git
 2. Compile the Java code: javac EmailClient.java
 3. Run the application: java EmailClient
 
