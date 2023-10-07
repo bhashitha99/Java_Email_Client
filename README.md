@@ -1,6 +1,3 @@
-# Java_Email_Client
-This repository contains the source code and documentation for a Java-based command-line email client project. This project was serves as a command-line email client with specific functionalities.
-
 # Java Command-Line Email Client
 
 **Assignment Description**: This repository contains the source code and documentation for a Java-based command-line email client project. This project was completed as part of an academic assignment, and it serves as a command-line email client with specific functionalities.
