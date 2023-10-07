@@ -1,0 +1,8 @@
+personal: Bhahsi,bhashi,Bha@gmail.com,1999/08/09
+personal: bb,nic,email@gmail.com,1992/10/10
+personal: nameq,nick,email12@gmail.com,1998/11/12
+official: name,email@gmail.com,designation
+office_friend: name,email,designation,1999/01/21
+personal: name,nick name,email,birthday
+official: bha,bhashi@gmail.com,eng
+official: Bhashitha,Bhashit@gmail.com,eng
